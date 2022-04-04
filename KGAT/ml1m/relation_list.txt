@@ -1,0 +1,10 @@
+org_id remap_id
+http://dbpedia.org/ontology/cinematography 0
+http://dbpedia.org/property/productionCompanies 1
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type 2
+http://dbpedia.org/ontology/starring 3
+http://dbpedia.org/ontology/editing 4
+http://dbpedia.org/property/producers 5
+http://dbpedia.org/property/allWriting 6
+http://dbpedia.org/ontology/director 7
+http://dbpedia.org/property/composer 8
